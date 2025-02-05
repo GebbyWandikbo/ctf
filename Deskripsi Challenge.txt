@@ -1,0 +1,7 @@
+Challenge Reverse Enginnering
+*********************************
+reven.exe
+
+1. Perhatikan string didalam program ini mungkin ada yang terlihat sedikit berbeda dari yang lain.
+
+2. Contoh flag: flag("kata unik")
